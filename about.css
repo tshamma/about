@@ -1,0 +1,20 @@
+
+h1{
+	font-family: "Palatino Linotype";
+	font-weight: 200px;
+}
+
+.bio{
+	float: right;
+	font-family: "Palatino Linotype";
+	width: 42%;
+}
+
+.img{
+	vertical-align: middle;
+}
+
+a:link {
+    text-decoration-color: blue;
+}
+
